@@ -2,7 +2,7 @@
 
 Welcome to my Github Profile! 
 
-I'm a developer passionate in technology and always improving myself to get better and evolve 😄
+I'm a Systems Developer passionate in technology and always improving myself to get better and evolve 😄
 
 Here you can find some samples of code i've been working on.
 
