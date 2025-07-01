@@ -12,6 +12,8 @@ Here you can find some samples of code i've been working on.
 
 * C#
 * Angular
+* Java
+* Spring Boot
 * NodeJS
 * React
 * React Native
