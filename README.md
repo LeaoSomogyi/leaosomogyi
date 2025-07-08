@@ -2,7 +2,7 @@
 
 I'm a Systems Developer passionate in technology and always improving myself to get better and evolve 😄
 
-I'm currently working at [Atlas Inovações](https://www.atlasinovacoes.com.br/en/) as `Tech Leader` focus on .NET Core, Angular and microservices architecture running on Kubernetes. Also creating Docker container images and maintaining DevOps pipelines.
+I'm currently working at [Atlas Inovações](https://www.atlasinovacoes.com.br/en/) as `Software Architect` focus on .NET Core, Angular and microservices architecture running on Kubernetes. Also creating Docker container images and maintaining DevOps pipelines.
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/felipe-leao-somogyi/)
 
