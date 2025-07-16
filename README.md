@@ -40,7 +40,8 @@ Tenho experiência em arquiteturas baseadas em microsserviços, integração con
 Projeto demonstrativo para deploy de uma API Node.js no EKS (Elastic Kubernetes Service) da AWS, com gateway via Kong e entrada via Ingress Controller.
 * ⚙️ Infra provisionada com `eksctl` e `kubectl`
 * 🐳 Aplicação Node.js containerizada
-* 🚪 Ingress via Kong com controle de rotas e headers
+* 🚪 Ingress como rota pública
+* 🛣️ Kong como gateway interno para distribuição das requisições entre os serviços
 * 🔐 Configuração de segurança e namespaces
 * ✍️ Acompanhado de um artigo técnico publicado no [LinkedIn](https://www.linkedin.com/pulse/subindo-uma-arquitetura-completa-com-eks-api-gateway-kong-felipe-le%C3%A3o-phvxf/)
 
